@@ -25,14 +25,13 @@
 ---
 
 ## 👨‍💻 About Me
-I’m an **Embedded Systems Engineer** and **Mechatronics Engineer** with a strong passion for **DevOps tools**, **Embedded Linux**, and **Real-Time Systems**.  
-I enjoy building efficient, scalable systems and collaborating with fellow tech enthusiasts.
+DevOps and Embedded Systems Engineer with expertise in CI/CD automation, leveraging tools such as Docker, Kubernetes, Ansible, and AWS. Strong background in developing and debugging embedded software for various microcontrollers, with skills in driver development, communication protocols, and embedded Linux.
 
 ---
 
 ## 📫 How to reach me
 <p align="center">
-  <a href="mailto:mohameed.omar.eng@gmail.com">
+  <a href="mailto:mohameed.mansourr.eng@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mohameed-omar-eng/">
