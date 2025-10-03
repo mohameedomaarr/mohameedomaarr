@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Mohamed Mansour</h1>
-<h3 align="center">Embedded Systems Engineer | Mechatronics Engineer | DevOps Tools</h3>
+<h3 align="center"> DevOps Engineer | Mechatronics Engineer | Embedded Systems Engineer </h3>
 <p align="center">📍 Dortmund, Germany</p>
 
 ---
